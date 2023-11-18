@@ -11,7 +11,7 @@
 # Getting Started:
 
 - I have made three components Stories, Navbar and Card in the same order.  
--  I have hosted this site on [Netlify]([https://6556970f0140ac13f6502b43--cerulean-griffin-dc095a.netlify.app/](https://6558ffe8040c86176e340b0b--dainty-scone-cc90ae.netlify.app/)) and All details is here on the github readme.
+-  I have hosted this site on [Netlify](https://6558ffe8040c86176e340b0b--dainty-scone-cc90ae.netlify.app/) and All details is here on the github readme.
 
 - **Libraries used** : 'Tailwind CSS' , 'React-Icons'
 
