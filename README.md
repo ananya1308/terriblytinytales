@@ -26,7 +26,7 @@ This repository contains an assignment from TerriblyTinyTales. The assignment fo
 
 4. To run this code on your system , Clone this repository and cd into the project directory and run the command npm install and then npm run dev and you're good to go.
 
-Thankyou , really looking forward to your response.
+5. Thankyou , looking forward to your reply.
 
 
 
